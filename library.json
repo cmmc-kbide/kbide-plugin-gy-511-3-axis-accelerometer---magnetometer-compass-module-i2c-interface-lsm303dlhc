@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-gy-511-3-axis-accelerometer---magnetometer-compass-module-i2c-interface-lsm303dlhc",
+  "title": "gy-511-3-axis-accelerometer---magnetometer-compass-module-i2c-interface-lsm303dlhc",
+  "keywords": "gy-511-3-axis-accelerometer---magnetometer-compass-module-i2c-interface-lsm303dlhc, esp32, esp8266, arduino",
+  "description": "gy-511-3-axis-accelerometer---magnetometer-compass-module-i2c-interface-lsm303dlhc plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-gy-511-3-axis-accelerometer---magnetometer-compass-module-i2c-interface-lsm303dlhc/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-gy-511-3-axis-accelerometer---magnetometer-compass-module-i2c-interface-lsm303dlhc/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
